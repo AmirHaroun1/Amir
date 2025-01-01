@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirharoun1&label=Profile%20views&color=0e75b6&style=flat" alt="amirharoun1" /> </p>
 
-- 💬 Ask me about **Node.js, Laravel**
+- 💬 Ask me about **Backend Topics & Node.js, Laravel**
 
 - 📫 How to reach me **amir.haroun@icloud.com**
 
